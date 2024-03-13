@@ -1,11 +1,11 @@
-#Kaggle Natural Language Processing with Disaster Tweets
+# Kaggle Natural Language Processing with Disaster Tweets
 Predict which Tweets are about real disasters and which ones are not
 
-###Dependencies
+### Dependencies
 python==3.10
 Azure OpenAI
 
-###Solution
+### Solution
 (https://www.kaggle.com/competitions/nlp-getting-started/submissions)
 
 prepare data
